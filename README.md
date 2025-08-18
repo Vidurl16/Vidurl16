@@ -1,10 +1,40 @@
-- 👋 Hi, I’m @Vidurl16
-- 👀 I’m interested in C++, C#, ASP.NET
-- 🌱 I’m currently learning C# and Java
-- 💞️ I’m looking to collaborate on any small applications that will help develop my experince
-- 📫 How to reach me Vidur360@gmail.com or 401914025@my.richfield.ac.za
+# 👋 Hi, I’m Vidur
 
-<!---
-Vidurl16/Vidurl16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a junior software developer working my way toward mid-level by building real-world projects, learning solid SDLC practices, and sharpening my problem-solving skills.  
+
+## 💻 Tech Stack
+- **Languages & Frameworks**:  
+  - C# / .NET 8 (Web API, EF Core, Hangfire)  
+  - TypeScript / React / Next.js  
+- **Frontend**: TailwindCSS, shadcn/ui, TanStack Query  
+- **Backend**: ASP.NET Core, PostgreSQL, Redis, Docker  
+- **Testing & Performance**: xUnit, k6, Playwright  
+- **Other**: GitHub Actions, CI/CD, AWS basics  
+
+## 🚀 Current Projects
+- **[PricePulse](https://github.com/Vidurl16/PricePulse)**  
+  A price tracker app (Amazon ZA → generic stores).  
+  - Frontend: Next.js + Tailwind + TanStack  
+  - Backend: ASP.NET Core + EF Core + Hangfire  
+  - Infra: Docker Compose (Postgres + Redis)  
+  - Goal: Build a full SDLC pipeline with CI, testing, and monitoring.  
+
+## 🎯 Goals
+- Level up from junior to mid-level by:  
+  - Practicing **clean architecture** and **design patterns**.  
+  - Building end-to-end projects with **real-world complexity**.  
+  - Learning **system design** and **scalable architectures**.  
+  - Writing better **tests**, improving debugging & investigation skills.  
+
+## 📖 Learning Focus
+- C# async patterns, DI lifetimes, and .NET backend architecture.  
+- Type-safe full-stack development with TypeScript.  
+- Observability: logging, tracing, and metrics.  
+- Collaboration workflows: PR reviews, ADRs, branching strategies.  
+
+## 📫 Connect
+- GitHub: [@Vidurl16](https://github.com/Vidurl16)  
+- (Optionally add LinkedIn / portfolio if you want)
+
+---
+⭐️ Always learning, always building.
