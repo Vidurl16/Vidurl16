@@ -34,7 +34,6 @@ I’m a junior software developer working my way toward mid-level by building re
 
 ## 📫 Connect
 - GitHub: [@Vidurl16](https://github.com/Vidurl16)  
-- (Optionally add LinkedIn / portfolio if you want)
-
+- https://www.linkedin.com/in/vidur-lutchminarain-2297661b1/
 ---
 ⭐️ Always learning, always building.
